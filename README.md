@@ -2,9 +2,7 @@
 
 <h1 align="center">Hi there, I'm Qarebaq 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGx6N3B6N3k4c2VqN3J2cHh2Z3Q4eGRubzQyNm1xM2Q0dmY1YjMwbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xbaoxRZ3M7LR2/giphy.gif" width="200" alt="Coding Cat">
-</p>
+
 
 ---
 
