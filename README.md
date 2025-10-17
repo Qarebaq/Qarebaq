@@ -43,8 +43,8 @@
 ---
 
 <!-- GitHub Stats Section (Optional, uncomment to enable) -->
-<!--
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Qarebaq&show_icons=true&theme=radical" alt="Qarebaq's GitHub stats" />
 </p>
--->
+
